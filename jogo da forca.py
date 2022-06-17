@@ -19,3 +19,6 @@ while tentativa != palavra:
     else:
         print('Erro! Apenas letras.')
 print("PARABÉNS! Você completou a FORCA! Fim do jogo!")
+
+
+#teste
